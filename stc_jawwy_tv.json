@@ -32,9 +32,9 @@
       "key": "ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8"
     },
     {
-      "name": "Discovery HD",
-      "url": "https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd",
-      "key": "1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2"
+      "name": "bein drama",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-05)/hdntl=exp=1722836601~acl=%2fContent%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,c49af6c5-8c1d-4339-8d7d-0c8bc5a7344d~hmac=01003a6a21784aad09f60834e21cbe8390e9cc17791897085ccfda22be0fb50c/manifest.mpd",
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "Discovery Family HD",
